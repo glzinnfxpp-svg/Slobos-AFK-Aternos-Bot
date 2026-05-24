@@ -9,7 +9,7 @@
     "ip": "FAZENDINHACPX.aternos.me",
     "port": 47880,
     "version": "1.21.1",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
